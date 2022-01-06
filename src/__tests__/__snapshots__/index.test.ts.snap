@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`empty archive 1`] = `
+Object {
+  "cid": "bafybeiczsscdsbs7ffqz55asqdf3smv6klcw3gofszvwlyarci47bgf354",
+  "content": "OqJlcm9vdHOB2CpYJQABcBIgWZSEOQZfKWGe9BKAy7kyvlLFbZnFlmtl4BESOfCYu+9ndmVyc2lvbgEoAXASIFmUhDkGXylhnvQSgMu5Mr5SxW2ZxZZrZeAREjnwmLvvCgIIAQ==",
+}
+`;
+
+exports[`empty file 1`] = `
+Object {
+  "cid": "bafybeia3lt6jyywirulyymfhj74rcmad4y6dqyc4xzmoyu2snustrgxo5q",
+  "content": "OqJlcm9vdHOB2CpYJQABcBIgG1z8nGLIjReMMKdP+REwA+Y8OGBcvljsU1JtJTia7uxndmVyc2lvbgEoAXASIFmUhDkGXylhnvQSgMu5Mr5SxW2ZxZZrZeAREjnwmLvvCgIIAVkBcBIgG1z8nGLIjReMMKdP+REwA+Y8OGBcvljsU1JtJTia7uwSLwokAXASIFmUhDkGXylhnvQSgMu5Mr5SxW2ZxZZrZeAREjnwmLvvEgVoZWxsbxgECgIIAQ==",
+}
+`;
+
+exports[`packs a directory 1`] = `
+Object {
+  "cid": "bafybeig6ooz45es7auohxhobend42q3bitbikkvdml27vxlsnfllla7q7a",
+  "content": "OqJlcm9vdHOB2CpYJQABcBIg3nOzzpJfBRx7ncEjR81DYUTChSqjYvX63XJpVrWD8PhndmVyc2lvbgExAVUSIDFfW9t20HjEO4rABk5KAWRhKx/Od8hpNFv8lMdYlO3TSGVsbG8sIHdvcmxkISsBVRIgsLVBxkxf/3QZjLVKtFSvb9kYdLmi2//kbi3ADgmxwF1IZWxsbyBhKwFVEiAB2/VLWrCBmVyKkV8OmDdXNxBr0m3Vs/LMSJcSuiLsz0hlbGxvIGKKAQFwEiAJ9DxrURbUEsG6ZXu3T7lEKEv3Xo3iHEblmPSgF2snMxIvCiQBVRIgsLVBxkxf/3QZjLVKtFSvb9kYdLmi2//kbi3ADgmxwF0SBWEudHh0GAcSLwokAVUSIAHb9UtasIGZXIqRXw6YN1c3EGvSbdWz8sxIlxK6IuzPEgViLnR4dBgHCgIIAYwBAXASIN5zs86SXwUce53BI0fNQ2FEwoUqo2L1+t1yaVa1g/D4Ei0KJAFwEiAJ9DxrURbUEsG6ZXu3T7lEKEv3Xo3iHEblmPSgF2snMxIDZGlyGHQSMwokAVUSIDFfW9t20HjEO4rABk5KAWRhKx/Od8hpNFv8lMdYlO3TEgloZWxsby50eHQYDQoCCAE=",
+}
+`;
+
+exports[`packs a file 1`] = `
+Object {
+  "cid": "bafybeigp4vabvp5cfo7y4ul2we6cza4tyr4j3i6jbmz3s73wl5goulp4gq",
+  "content": "OqJlcm9vdHOB2CpYJQABcBIgz+VAGr+iK7+OUXqxPCyDk8R4naPJCzO5f3ZfTOot/DRndmVyc2lvbgEoAVUSIAVO3sHQIR9iT+0MvKnU+UALDkkcQ3Qq8sWwq+vwyZDYAAECA1kBcBIgz+VAGr+iK7+OUXqxPCyDk8R4naPJCzO5f3ZfTOot/DQSLwokAVUSIAVO3sHQIR9iT+0MvKnU+UALDkkcQ3Qq8sWwq+vwyZDYEgVoZWxsbxgECgIIAQ==",
+}
+`;
